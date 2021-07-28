@@ -1,0 +1,34 @@
+Arguments: 
+  D:\Program Files\nodejs\node.exe C:\Users\vijay维杰\AppData\Roaming\npm\node_modules\yarn\bin\yarn.js add express -S
+
+PATH: 
+  D:\Anaconda;D:\Anaconda\Scripts;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;D:\Program Files\Java\jdk1.8.0_152\bin;D:\Program Files\nodejs\node_global\node_modules;D:\Program Files (x86)\Git\cmd;E:\Matlab R2020a\runtime\win64;E:\Matlab R2020a\bin;E:\Matlab R2020a\polyspace\bin;D:\MySQL\mysql-8.0.23-winx64\bin;D:\Program Files\nodejs\;C:\Users\vijay维杰\AppData\Local\Programs\Python\Python37\Scripts\;C:\Users\vijay维杰\AppData\Local\Programs\Python\Python37\;C:\Users\vijay维杰\AppData\Local\Microsoft\WindowsApps;D:\WebStorm 2020.1.1\bin;;D:\Microsoft VS Code\bin;D:\Program Files\nodejs\node_global;C:\Users\vijay维杰\AppData\Roaming\npm;D:\PyCharm 2021.1.3\bin;
+
+Yarn version: 
+  1.22.11
+
+Node version: 
+  14.17.3
+
+Platform: 
+  win32 x64
+
+Trace: 
+  Error: connect ETIMEDOUT 104.16.26.35:443
+      at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1148:16)
+
+npm manifest: 
+  {
+    "name": "express_demo",
+    "version": "1.0.0",
+    "main": "index.js",
+    "repository": "git@github.com:coder-WJie/express_demo.git",
+    "author": "王杰 <2623312985@qq.com>",
+    "license": "MIT"
+  }
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
